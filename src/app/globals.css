@@ -36,6 +36,9 @@
 
   --neumorphic-light: rgba(255,255,255,0.8);
   --neumorphic-shadow: rgba(0,0,0,0.05);
+
+  --shadow-light: 3px 3px 6px rgba(166,180,200,0.2), -3px -3px 6px rgba(255,255,255,0.7);
+  --shadow-pressed: inset 2px 2px 5px rgba(0,0,0,0.1), inset -3px -3px 7px rgba(255,255,255,0.2);
 }
 
     html {
