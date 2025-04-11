@@ -23,6 +23,9 @@
   --transition-speed: 0.3s;
   --font-heebo: var(--font-heebo);
   --font-inter: var(--font-inter);
+
+  --neomorphic-shadow-light: -5px -5px 10px rgba(255, 255, 255, 0.1);
+  --neomorphic-shadow-dark: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
 
     html {
