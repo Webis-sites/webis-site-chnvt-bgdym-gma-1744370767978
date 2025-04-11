@@ -1,11 +1,102 @@
 {
-  "timestamp": "2025-04-11T11:53:23.845Z",
+  "timestamp": "2025-04-11T11:54:16.402Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 15,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component that defines the page structure with proper RTL support for Hebrew"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section showcasing the clothing store's brand with headline and CTA"
+    },
+    {
+      "name": "FeaturedProducts",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of featured clothing products with images, names, and prices"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section highlighting the clothing store's special services"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive appointment booking system with form"
+    },
+    {
+      "name": "PortfolioGallery",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Visual gallery showcasing the store's clothing collections and fashion styles"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions with expandable answers"
+    },
+    {
+      "name": "TestimonialsCarousel",
+      "type": "social-proof",
+      "status": "pending",
+      "description": "Carousel displaying customer reviews and testimonials"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Call-to-action section encouraging store visits or appointments"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Page footer with contact information, social links, and copyright"
+    },
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Responsive navigation bar with logo, menu, and action buttons"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the store's history, mission, and values"
+    },
+    {
+      "name": "FeaturesGrid",
+      "type": "features",
+      "status": "pending",
+      "description": "Grid showcasing the store's unique selling points and features"
+    },
+    {
+      "name": "NewsletterSignup",
+      "type": "newsletter",
+      "status": "pending",
+      "description": "Email newsletter signup form with promotional offer"
+    },
+    {
+      "name": "LocationMap",
+      "type": "map",
+      "status": "pending",
+      "description": "Interactive map showing the store location with contact details"
+    }
+  ],
   "repoName": "webis-site-chnvt-bgdym-gma-1744370767978"
 }
