@@ -49,6 +49,9 @@
   --shadow-neumorphic: 8px 8px 16px rgba(174, 174, 192, 0.2), -8px -8px 16px rgba(255, 255, 255, 0.6);
 
   --box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.15), -6px -6px 12px rgba(255, 255, 255, 0.25);
+
+  --neumorphic-shadow-light: #ffffff;
+  --neumorphic-shadow-dark: #d1d9e6;
 }
 
     html {
